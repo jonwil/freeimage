@@ -1,0 +1,23 @@
+.vs
+x32
+*.user
+Win32
+obj
+Backup
+UpgradeLog.htm
+Release
+/Wrapper/FreeImage.NET/cs/Library/bin
+/Wrapper/FreeImage.NET/cs/Samples/Sample 01 - Loading and saving/bin
+/Wrapper/FreeImage.NET/cs/Samples/Sample 01 - Loading and saving/bin
+/Wrapper/FreeImage.NET/cs/Samples/Sample 02 - Multipaged bitmaps/bin
+/Wrapper/FreeImage.NET/cs/Samples/Sample 03 - Allocating/bin
+/Wrapper/FreeImage.NET/cs/Samples/Sample 04 - Getting bitmap informations/bin
+/Wrapper/FreeImage.NET/cs/Samples/Sample 05 - Working with pixels/bin
+/Wrapper/FreeImage.NET/cs/Samples/Sample 06 - Converting/bin
+/Wrapper/FreeImage.NET/cs/Samples/Sample 07 - ICC Profiles/bin
+/Wrapper/FreeImage.NET/cs/Samples/Sample 08 - Creating a plugin/bin
+/Wrapper/FreeImage.NET/cs/Samples/Sample 09 - Working with streams/bin
+/Wrapper/FreeImage.NET/cs/Samples/Sample 10 - Metadata/bin
+/Wrapper/FreeImage.NET/cs/Samples/Sample 11 - Using the FreeImageBitmap class/bin
+/Wrapper/FreeImage.NET/cs/SourceFileMerger/bin
+/Wrapper/FreeImage.NET/cs/UnitTest/bin
